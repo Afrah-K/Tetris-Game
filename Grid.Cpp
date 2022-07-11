@@ -1,4 +1,8 @@
 #include <iostream>;
+#pieces.h;
+
 using namespace std;
 
-int main()
+class grid{
+
+}
